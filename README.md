@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WheatAndRye
 - 👀 I’m interested in ... Not quite sure yet
-- 🌱 I’m currently learning ... Python!
+- 🌱 I’m currently learning ... MASM
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
