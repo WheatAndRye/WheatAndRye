@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WheatAndRye
-- 👀 I’m interested in ... Quiting my job
+- 👀 I’m interested in ... Quitting my job
 - 🌱 I’m currently learning ... MASM, NETASM
 - 💞️ I’m looking to collaborate on ... 
 - 📫 Message me on GitHub
